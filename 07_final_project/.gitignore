@@ -1,3 +1,6 @@
 # ignore
 not_sure/
 .ipynb_checkpoints
+presentation/
+data/old/
+data/data_berlin_2019/
