@@ -26,8 +26,6 @@ https://www.worldweatheronline.com/developer/api/
 	* adding information in location (country, city, district) based on coordinates with HERE API
 * *get_data_new_years*
 	* for the boxes previously identified, this notebook requests data from the opensourcemap-API for new year 2018/2019 and 2019/2020 and transforms it into dataframes with hourly data
-* *get_data_new_years_PM25*
-	* same as *get_data_new_years* but for PM2.5 instead of PM10
 * *get_1_year_data*
 	* for 27 previosly identified sensors in Berlin, this notebook requests data from the opensourcemap-API for 2018-12-30 - 2020-01-05 and transforms it into a dataframe with hourly data
 * *get_weather_info_for_cities*
